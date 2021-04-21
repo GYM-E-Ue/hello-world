@@ -7,7 +7,7 @@ class Main {
     for (int i = 0; i < aufstellung.length; i++) {
       System.out.println(aufstellung[i]);
     }
-    binaereSuche(aufstellung, 6);
+    binaereSuche(aufstellung, 7);
 
   }
 
